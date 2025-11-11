@@ -17,8 +17,8 @@ Usa las secciones plegables y el índice para navegar cómodamente.
 <details>
 <summary>📖 Lex</summary>
 
-- Contiene referencias y notas legales organizadas por temáticas.  
-- Accede al proyecto: [Lex](https://francasalf-hub.github.io/lex/)  
+- Contiene referencias y notas legales organizadas por temáticas.
+- Accede al proyecto: [Lex](https://francasalf-hub.github.io/lex/)
 - [🏠 Volver a la página principal](https://francasalf-hub.github.io/)
 
 </details>
@@ -26,8 +26,8 @@ Usa las secciones plegables y el índice para navegar cómodamente.
 <details>
 <summary>🌸 Flos</summary>
 
-- Material y referencias de interés general.  
-- Accede al proyecto: [Flos](https://francasalf-hub.github.io/flos/)  
+- Material y referencias de interés general.
+- Accede al proyecto: [Flos](https://francasalf-hub.github.io/flos/)
 - [🏠 Volver a la página principal](https://francasalf-hub.github.io/)
 
 </details>
@@ -35,8 +35,8 @@ Usa las secciones plegables y el índice para navegar cómodamente.
 <details>
 <summary>🔮 Sectas (próximo)</summary>
 
-- Página planificada para referencias y estudios sobre sectas.  
-- Acceso futuro: [Sectas](https://francasalf-hub.github.io/sectas/)  
+- Página planificada para referencias y estudios sobre sectas.
+- Acceso futuro: [Sectas](https://francasalf-hub.github.io/sectas/)
 - [🏠 Volver a la página principal](https://francasalf-hub.github.io/)
 
 </details>
@@ -48,10 +48,10 @@ Usa las secciones plegables y el índice para navegar cómodamente.
 <details>
 <summary>Enlaces de interés</summary>
 
-- [💻 Edu.xunta.gal](https://www.edu.xunta.gal/) – Portal educativo de la Xunta de Galicia.  
-- [📜 Diario Oficial de Galicia](https://www.xunta.gal/diario-oficial-galicia) – Publicaciones oficiales gallegas.  
-- [📖 BOE](https://www.boe.es/) – Boletín Oficial del Estado.  
-- [⚖️ Lex.gal](https://www.lex.gal/) – Legislación y normas gallegas en línea.  
+- [💻 Edu.xunta.gal](https://www.edu.xunta.gal/) – Portal educativo de la Xunta de Galicia.
+- [📜 Diario Oficial de Galicia](https://www.xunta.gal/diario-oficial-galicia) – Publicaciones oficiales gallegas.
+- [📖 BOE](https://www.boe.es/) – Boletín Oficial del Estado.
+- [⚖️ Lex.gal](https://www.lex.gal/) – Legislación y normas gallegas en línea.
 - [🏠 Volver a la página principal](https://francasalf-hub.github.io/)
 
 </details>
@@ -60,10 +60,10 @@ Usa las secciones plegables y el índice para navegar cómodamente.
 
 ## 📌 Notas importantes
 
-- Esta página se mantiene automáticamente con **GitHub Pages**.  
-- Cada proyecto enlazado tiene su propio archivo Markdown (`.md`) editable desde el repositorio correspondiente.  
-- Solo yo puedo editar el contenido de cada repositorio, salvo que invite a colaboradores específicos.  
-- En el futuro, los enlaces a nuevos repositorios se incorporarán aquí de forma automática.  
+- Esta página se mantiene automáticamente con **GitHub Pages**.
+- Cada proyecto enlazado tiene su propio archivo Markdown (`.md`) editable desde el repositorio correspondiente.
+- Solo yo puedo editar el contenido de cada repositorio, salvo que invite a colaboradores específicos.
+- En el futuro, los enlaces a nuevos repositorios se incorporarán aquí de forma automática.
 - [🏠 Volver a la página principal](https://francasalf-hub.github.io/)
 
 ---
