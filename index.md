@@ -1,29 +1,49 @@
 # 🌐 Bienvenido a mi espacio personal en GitHub
 
 Este índice organiza mis **proyectos, referencias y recursos educativos**.  
-Desde aquí puedes navegar a cada repositorio o consultar enlaces útiles oficiales.
+Usa las secciones plegables para navegar cómodamente.
 
 ---
 
 ## 📚 Proyectos en curso
 
-- [📖 Lex](https://francasalf-hub.github.io/lex/)  
-  Contiene referencias y notas legales organizadas por temáticas.
+<details>
+<summary>📖 Lex</summary>
 
-- [🌸 Flos](https://francasalf-hub.github.io/flos/)  
-  Material y referencias de interés general.
+- Contiene referencias y notas legales organizadas por temáticas.  
+- Accede al proyecto: [Lex](https://francasalf-hub.github.io/lex/)
 
-- [🔮 Sectas (próximo)](https://francasalf-hub.github.io/sectas/)  
-  Página planificada para referencias y estudios sobre sectas.
+</details>
+
+<details>
+<summary>🌸 Flos</summary>
+
+- Material y referencias de interés general.  
+- Accede al proyecto: [Flos](https://francasalf-hub.github.io/flos/)
+
+</details>
+
+<details>
+<summary>🔮 Sectas (próximo)</summary>
+
+- Página planificada para referencias y estudios sobre sectas.  
+- Acceso futuro: [Sectas](https://francasalf-hub.github.io/sectas/)
+
+</details>
 
 ---
 
 ## 🛠️ Recursos oficiales
 
+<details>
+<summary>Enlaces de interés</summary>
+
 - [💻 Edu.xunta.gal](https://www.edu.xunta.gal/) – Portal educativo de la Xunta de Galicia.  
 - [📜 Diario Oficial de Galicia](https://www.xunta.gal/diario-oficial-galicia) – Publicaciones oficiales gallegas.  
 - [📖 BOE](https://www.boe.es/) – Boletín Oficial del Estado.  
 - [⚖️ Lex.gal](https://www.lex.gal/) – Legislación y normas gallegas en línea.
+
+</details>
 
 ---
 
