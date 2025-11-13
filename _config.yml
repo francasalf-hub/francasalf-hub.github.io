@@ -1,3 +1,36 @@
+# ======================================================
+# CONFIGURACIÓN GENERAL DEL SITIO FRANCASALF-HUB
+# ======================================================
+
+title: Francasalf Hub
+description: Repositorio personal con materiales y referencias en formato Markdown.
+author: Fran Casal
+lang: es-ES
 theme: jekyll-theme-cayman
-title: FCF
-description: --- ---
+
+# ------------------------------------------------------
+# URL Y ENLACES
+# ------------------------------------------------------
+baseurl: ""  # no poner "/" para el sitio raíz
+url: "https://francasalf-hub.github.io"
+
+# ------------------------------------------------------
+# DATOS GLOBALES
+# ------------------------------------------------------
+social_links:
+  - name: Edu.xunta.gal
+    url: https://www.edu.xunta.gal/
+  - name: Diario Oficial de Galicia (DOG)
+    url: https://www.xunta.gal/diario-oficial-galicia
+  - name: BOE
+    url: https://www.boe.es/
+  - name: Lex.gal
+    url: https://www.lex.gal/
+
+# ------------------------------------------------------
+# OPCIONES DE MARKDOWN Y FORMATO
+# ------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
