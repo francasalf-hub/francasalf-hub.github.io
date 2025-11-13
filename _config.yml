@@ -1,22 +1,17 @@
-# ======================================================
-# CONFIGURACIÓN GENERAL DEL SITIO FRANCASALF-HUB
-# ======================================================
-
 title: Francasalf Hub
 description: Repositorio personal con materiales y referencias en formato Markdown.
 author: Fran Casal
 lang: es-ES
-theme: jekyll-theme-cayman
 
-# ------------------------------------------------------
-# URL Y ENLACES
-# ------------------------------------------------------
-baseurl: ""  # no poner "/" para el sitio raíz
 url: "https://francasalf-hub.github.io"
+baseurl: ""  # sitio en la raíz
 
-# ------------------------------------------------------
-# DATOS GLOBALES
-# ------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Enlaces útiles
 social_links:
   - name: Edu.xunta.gal
     url: https://www.edu.xunta.gal/
@@ -27,10 +22,10 @@ social_links:
   - name: Lex.gal
     url: https://www.lex.gal/
 
-# ------------------------------------------------------
-# OPCIONES DE MARKDOWN Y FORMATO
-# ------------------------------------------------------
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+# Plugins requeridos por GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Tema del sitio
+theme: jekyll-theme-cayman
