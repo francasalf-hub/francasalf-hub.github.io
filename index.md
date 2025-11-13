@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-cayman
+---
+
+
 # 🌐 Bienvenido a mi espacio personal en GitHub
 
 Este índice organiza mis **proyectos, referencias y recursos educativos**.  
