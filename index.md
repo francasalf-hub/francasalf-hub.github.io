@@ -33,16 +33,6 @@ Usa el índice rápido para navegar cómodamente por la página.
 
 ---
 
-## 🛠️ Recursos oficiales
-
-- [💻 Edu.xunta.gal](https://www.edu.xunta.gal/) – Portal educativo de la Xunta de Galicia.  
-- [📜 Diario Oficial de Galicia](https://www.xunta.gal/diario-oficial-galicia) – Publicaciones oficiales gallegas.  
-- [📖 BOE](https://www.boe.es/) – Boletín Oficial del Estado.  
-- [⚖️ Lex.gal](https://www.lex.gal/) – Legislación y normas gallegas en línea.  
-[🏠 Volver a la página principal](https://francasalf-hub.github.io/)
-
----
-
 ## 📌 Notas importantes
 
 - Esta página se mantiene automáticamente con **GitHub Pages**.  
