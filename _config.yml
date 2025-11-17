@@ -11,17 +11,6 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-# Enlaces útiles
-social_links:
-  - name: Edu.xunta.gal
-    url: https://www.edu.xunta.gal/
-  - name: Diario Oficial de Galicia (DOG)
-    url: https://www.xunta.gal/diario-oficial-galicia
-  - name: BOE
-    url: https://www.boe.es/
-  - name: Lex.gal
-    url: https://www.lex.gal/
-
 # Plugins requeridos por GitHub Pages
 plugins:
   - jekyll-feed
